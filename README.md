@@ -163,6 +163,7 @@ EEGSIGNAL
 
 ---
 
-## Author
-**D. Srinivas Rao**  
+## Authors
+**D. Srinivas Rao** 
+**S.N. Sriteja**  
 Signals and Systems Mini Project
